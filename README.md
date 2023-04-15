@@ -1,4 +1,4 @@
-# Driving-Graphics
+# Driving Graphics
 
 This project was inspired by my desire to learn how to program a simulation of the movement of objects. I have applied still images of the car in various ways to be used in programming to show that the car looks like moving along the road.
 
